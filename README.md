@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aliza Adnan!</h1>
 <h3 align="center">A machine learning and artificial intelligence enthusiast</h3>,
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/artificial-intelligence-brain-7078998">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
 
-- 🌱 I’m currently learning **Flask**
+
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://medium.com/@alizadnan123](https://medium.com/@alizadnan123)
 
