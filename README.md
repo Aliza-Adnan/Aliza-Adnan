@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
 <br>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently diving into the world of **Generative AI and Large Language Models**
 
 - 📝 I regularly write articles on [https://medium.com/@alizadnan123](https://medium.com/@alizadnan123)
 
