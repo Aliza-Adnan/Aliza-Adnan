@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliza Adnan!</h1>
-<h3 align="center">A machine learning and artificial intelligence enthusiast</h3>
+<h3 align="center">A machine learning and artificial intelligence enthusiast with over 2+ years of experience as AI/ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
 <br>
 
